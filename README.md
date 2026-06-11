@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo João Victor Correa Luzia, estudo programação há 3 anos e a área de backend há 1 ano. Sou do estado de Santa Catarina. Atualmente estou buscando as primeiras oportunidades profissionais na área. Sou entusiasta por tecnologia, já trabalhei com front-end e desenvolvimento de jogos e hoje busco me especializar na área do back-end.
+Me chamo João Victor Correa Luzia, estudo programação há 3 anos e a área de backend há 1 ano. Sou do estado de Santa Catarina. Atualmente estou buscando as primeiras oportunidades profissionais na área. Sou entusiasta na área de tecnologia, já estudei front-end e desenvolvimento de jogos e hoje busco me especializar na área do back-end.
 
 ---
 
