@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Victor Correa Luzia
+# 👨‍💻 João Victor Correa Luzia
 
 **`Desenvolvedor Backend`**
 
