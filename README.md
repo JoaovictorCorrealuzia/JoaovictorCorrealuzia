@@ -106,7 +106,7 @@ Me chamo João Victor Correa Luzia, estudo programação há 3 anos e a área de
 <img
    align="left" 
    alt="GitHub Stats" 
-   height="120" 
+   height="150" 
    style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovictorCorrealuzia&a&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_progress=true)"
 />
