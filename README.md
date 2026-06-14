@@ -4,6 +4,8 @@
 
 Me chamo João Victor Correa Luzia, estudo programação há 3 anos e a área de backend há 1 ano. Sou do estado de Santa Catarina. Atualmente estou buscando as primeiras oportunidades profissionais na área. Sou entusiasta na área de tecnologia, já estudei front-end e desenvolvimento de jogos e hoje busco me especializar na área do back-end.
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-correa-luzia/)
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
